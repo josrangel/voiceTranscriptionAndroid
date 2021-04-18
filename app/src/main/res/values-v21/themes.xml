@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="init_translate" parent="margin_elements">
+        <item name="android:backgroundTint">@color/purple_700</item>
+        <item name="android:drawableRight">@drawable/ic_baseline_mic_on</item>
+    </style>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transcripcion de voz</string>
+    <string name="translate">Transcribir</string>
+    <string name="hint_translate">Aqui se escribira el texto transcrito</string>
+    <string name="error_intent">Este dispositivo no soporta la funcionalidad</string>
+</resources>
